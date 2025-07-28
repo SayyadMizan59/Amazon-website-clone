@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo {
-    background-image: url(ammazon_logo.webp);
+    background-image: url('images/ammazon_logo.webp');
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -109,19 +109,15 @@ span {
     color: #ffffff;
     align-items: center;
     justify-content: space-evenly;
-    
-    
 }
 .panel-options p {
     display: inline;
     margin-right: 5px;
     margin-left: 10px;
-
 }
 .panel-line {
     text-decoration: none;
     color: #ffffff;
-    
 }
 .panel-options {
     width: 70%;
@@ -131,7 +127,7 @@ span {
     font-weight: 500;
 }
 .hero-section {
-    background-image: url(hero_section.jpg);
+    background-image: url('images/hero_section.jpg');
     background-size: cover;
     height: 350px;
     display: flex;
@@ -170,7 +166,6 @@ span {
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
-
 }
 .box-content {
     margin-left: 1rem;
@@ -180,13 +175,12 @@ span {
     color: #2162a1;
 }
 .hero-watch {
-    background-image: url(watch-image.jpg);
+    background-image: url('images/watch-image.jpg');
     background-size: cover;
     height: 300px;
-    
 }
 .hero-body {
-    background-image: url("hero_image.jpg");
+    background-image: url('images/hero_image.jpg');
     background-size: cover;
     height: 300px;
 }
@@ -207,20 +201,15 @@ footer {
     height: 400px;
     display: flex;
     justify-content: space-evenly;
-
-
- ul {
+}
+.panel2 ul {
     margin-top: 20px;
- }   
-    
-
 }
 ul a {
     display: block;
     font-size: 0.90rem;
     margin-top: 10px;
     color:#dddddd;
-
 }
 .foot-panel4{
     background-color: #131a22;
@@ -233,11 +222,11 @@ ul a {
     padding-top: 10px;
     font-size: 0.80rem;
     margin-right: 50px;
-
 }
 .copyright {
     margin: 5px;
     font-size: 0.80rem;
 }
+
 
 
